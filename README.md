@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Yenni 👋
 
-<!--
-**afriyenn/afriyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Analyst with 2.5+ years of experience translating business needs
+into clear, actionable insights.
 
-Here are some ideas to get you started:
+I work collaboratively across sales, marketing, and operations to deliver
+data-driven solutions, improve business processes, and drive revenue growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data & Business Analysis: performance reporting, analytical insights, dashboarding, revenue & ROI analysis
+- 🤝 Cross-functional collaboration: Marketing, Sales, and Operations
+- 📈 Financial analysis: P&L, CAPEX/OPEX, revenue & profitability
+- 🚀 Impact-driven execution: automation, growth initiatives, decision support
+- 🛠 Tools: Power BI, Excel
+
+
+

@@ -11,6 +11,3 @@ data-driven solutions, improve business processes, and drive revenue growth.
 - 📈 Financial analysis: P&L, CAPEX/OPEX, revenue & profitability
 - 🚀 Impact-driven execution: automation, growth initiatives, decision support
 - 🛠 Tools: Power BI, Excel
-
-
-

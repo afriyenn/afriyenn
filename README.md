@@ -13,6 +13,7 @@ data-driven solutions, improve business processes, and drive revenue growth.
 - 🛠 Tools: Power BI, Excel
 
 
+
 # Yenni's Business & Data Analytics Portfolio
 
 # 📊Project Sales Performance Dashboard 

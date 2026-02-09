@@ -1,10 +1,6 @@
 Hi, I'm Yenni 👋
 
-Business Analyst with 2.5+ years of experience translating business needs
-into clear, actionable insights.
-
-I work collaboratively across sales, marketing, and operations to deliver
-data-driven solutions, improve business processes, and drive revenue growth.
+Business Analyst with 7+ years of professional experience, including a strong foundation in data analysis, reporting, and operational analytics, and 2.5+ years in a formal Business Analyst role within transportation and digital platform environments. Experienced in pricing, revenue, and ROI analysis, CAPEX/OPEX evaluation, and executive performance reporting, supporting commercial, operational, and expansion decisions. Skilled in translating complex datasets into actionable insights using Power BI, Excel, SQL, and Python, with proven exposure to cross-functional and C-level stakeholders.
 
 - 📊 Data & Business Analysis: performance reporting, analytical insights, dashboarding, revenue & ROI analysis
 - 🤝 Cross-functional collaboration: Marketing, Sales, and Operations
